@@ -1,0 +1,4 @@
+建议安装 Font目录下的 YaHei.Consolas.1.12.ttf 字体
+
+运行时目录 \Data\settings\.vim
+配置主文件 \Data\settings\_vimrc
